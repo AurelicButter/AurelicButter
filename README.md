@@ -10,7 +10,7 @@ I know Python (2.x & 3.x), Java, C#, and Javascript. But out of those four, I wo
 
 🔨 Maintaining and further developing my repositories. Namely [AniList-Node](https://github.com/Butterstroke/AniList-Node) and [MargarineBot](https://github.com/Butterstroke/MargarineBot)
 
-💻 Working full time as a Co-op Software Developer.
+💻 Currently looking for a full-time computer science co-op job for September-December 2021. Open to physical jobs in Halifax, Nova Scotia and remotely everywhere else. Have a job that matches? Send me an email at <a href="mailto:katsurinstudios@protonmail.ch">katsurinstudios@protonmail.ch</a>
 
 ### Contact Me
 🐦 Twitter: <a href="https://twitter.com/RealMargarine">@RealMargarine</a>
