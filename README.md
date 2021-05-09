@@ -2,7 +2,7 @@
 
 I am Frederick Katsura. I am a passionate self-taught independent developer looking to create whatever I desire and learning new things!
 
-I know Python (2.x & 3.x), Java, C#, and Javascript. But out of those four, I would say Javascript (specifically with Node) is my favourite to play around with and the one I am most comfortable with!
+While I know Python (2.x & 3.x), Java, and C#. I love working with JavaScript and TypeScript the most and is the one I'm most knowledegable in. Most of my projects are programmed in JavaScript so... I hope I know at least a little bit of it. 😄
 
 ### Current Status
 
