@@ -6,11 +6,11 @@ While I know Python (2.x & 3.x), Java, and C#. I love working with JavaScript an
 
 ### Current Status
 
-✍️ Developing a new project using Kotlin.
+✍️ Developing a new Discord.js framework: [Miyuu](https://github.com/Butterstroke/Miyuu).
 
 🔨 Maintaining and further developing my repositories. Namely [AniList-Node](https://github.com/Butterstroke/AniList-Node) and [MargarineBot](https://github.com/Butterstroke/MargarineBot)
 
-💻 Currently looking for a full-time computer science co-op job for September-December 2021. Open to physical jobs in Halifax, Nova Scotia and remotely everywhere else. Have a job that matches? Send me an email at <a href="mailto:katsurinstudios@protonmail.ch">katsurinstudios@protonmail.ch</a>
+💻 Currently doing a study semester for university. Not seeking any active job offers. 
 
 ### Contact Me
 🐦 Twitter: <a href="https://twitter.com/RealMargarine">@RealMargarine</a>
