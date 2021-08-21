@@ -6,9 +6,9 @@ While I know Python (2.x & 3.x), Java, and C#. I love working with JavaScript an
 
 ### Current Status
 
-✍️ Developing a new Discord.js framework: [Miyuu](https://github.com/Butterstroke/Miyuu).
+✍️ Developing a major release for [MargarineBot](https://github.com/Butterstroke/MargarineBot)
 
-🔨 Maintaining and further developing my repositories. Namely [AniList-Node](https://github.com/Butterstroke/AniList-Node) and [MargarineBot](https://github.com/Butterstroke/MargarineBot)
+🔨 Maintaining and further developing my repositories like [AniList-Node](https://github.com/Butterstroke/AniList-Node)
 
 💻 Currently doing a study semester for university. Not seeking any active job offers. 
 
