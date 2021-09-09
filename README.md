@@ -10,7 +10,7 @@ While I know Python (2.x & 3.x), Java, and C#. I love working with JavaScript an
 
 🔨 Maintaining and further developing my repositories like [AniList-Node](https://github.com/Butterstroke/AniList-Node)
 
-💻 Currently doing a study semester for university. Not seeking any active job offers. 
+💻 Working full time as a Co-op Software Developer.
 
 ### Contact Me
 🐦 Twitter: <a href="https://twitter.com/RealMargarine">@RealMargarine</a>
