@@ -6,9 +6,9 @@ While I know Python (2.x & 3.x), Java, and C#. I love working with JavaScript an
 
 ### Current Status
 
-✍️ Developing a major release for [MargarineBot](https://github.com/Butterstroke/MargarineBot)
+✍️ Developing a new Angular application called Myneworm.
 
-🔨 Maintaining and further developing my repositories like [AniList-Node](https://github.com/Butterstroke/AniList-Node)
+🔨 Maintaining and further developing my repositories like [AniList-Node](https://github.com/Butterstroke/AniList-Node) & [MargarineBot](https://github.com/Butterstroke/MargarineBot)
 
 💻 Working full time as a Co-op Software Developer.
 
