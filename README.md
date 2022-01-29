@@ -2,7 +2,7 @@
 
 I am Frederick Katsura. I am a passionate, self-taught developer looking to create whatever I desire and learn new things!
 
-While I know Python, Java, and C#, my main languages are JavaScript and TypeScript. Both of them are the ones I'm most knowledgable in and love to work with the most so most of my projects tend to be developed in them. I also know a bit of HTML, CSS, Angular, PostgreSQL, Express.js, etc... so I'm pretty flexible when it comes to application work. 😄
+While I know Python, Java, and C#, my main languages are JavaScript and TypeScript. Both of them are the ones I'm most knowledgable in and love to work with the most so most of my projects tend to be developed in them. I also know HTML, CSS, Angular, PostgreSQL, Express.js, etc... so I'm pretty flexible when it comes to application work. 😄
 
 ### Current Status
 
