@@ -8,7 +8,7 @@ While I know Python, Java, and C#, my main languages are JavaScript and TypeScri
 
 ✍️ Developing a new Angular application called Myneworm.
 
-🔨 Maintaining and further developing my repositories like [AniList-Node](https://github.com/Butterstroke/AniList-Node) & [MargarineBot](https://github.com/Butterstroke/MargarineBot)
+🔨 Maintaining and further developing my repositories like [AniList-Node](https://github.com/Butterstroke/AniList-Node)
 
 💻 Currently completing another semester of university. Not seeking any employment at the moment.
 
