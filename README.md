@@ -2,7 +2,7 @@
 
 I am Frederick Katsura. I am a passionate, self-taught developer looking to create whatever I desire and learn new things!
 
-Since 2017 when I first started open source development, I've learned a lot of skills including Python, Java, C#, and my personal favourites JavaScript and TypeScript. So much as a personal favourite, I tend to work with JavaScript and TypeScript and end up having most of my projects using either of them! I also have picked up many other skills along the way such as HTML, CSS, Angular, PostgreSQL, and Express.js. So wherever my project's needs take me, I am flexible and ready to create! 😄
+Since 2017, when I first started open source development, I've learned a lot of skills including Python, Java, C#, and my personal favourites JavaScript and TypeScript. So much of a personal favourite, I tend to work with JavaScript and TypeScript and end up having most of my projects using either of them! I also have picked up many other skills along the way such as HTML, CSS, Angular, PostgreSQL, and Express.js. So wherever my project's needs take me, I am flexible and ready to create! 😄
 
 ### Current Status
 
