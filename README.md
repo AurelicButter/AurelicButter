@@ -2,7 +2,7 @@
 
 I am Frederick Katsura. I am a passionate, self-taught developer looking to create whatever I desire and learn new things!
 
-While I know Python, Java, and C#, my main languages are JavaScript and TypeScript. Both of them are the ones I'm most knowledgable in and love to work with the most so most of my projects tend to be developed in them. I also know HTML, CSS, Angular, PostgreSQL, Express.js, etc... so I'm pretty flexible when it comes to application work. 😄
+Since 2017 when I first started open source development, I've learned a lot of skills including Python, Java, C#, and my personal favourites JavaScript and TypeScript. So much as a personal favourite, I tend to work with JavaScript and TypeScript and end up having most of my projects using either of them! I also have picked up many other skills along the way such as HTML, CSS, Angular, PostgreSQL, and Express.js. So wherever my project's needs take me, I am flexible and ready to create! 😄
 
 ### Current Status
 
@@ -10,7 +10,7 @@ While I know Python, Java, and C#, my main languages are JavaScript and TypeScri
 
 🔨 Maintaining and further developing my repositories like [AniList-Node](https://github.com/Butterstroke/AniList-Node)
 
-💻 Currently completing another semester of university. Not seeking any employment at the moment.
+💻 Currently completing my final semester of university. Actively seeking full-time employment for a software developer position starting in January 2023. All offers, reach out via my email: <a href="mailto:katsurinstudios@protonmail.ch">katsurinstudios@protonmail.ch</a>.
 
 ### Contact Me
 🐦 Twitter: <a href="https://twitter.com/RealMargarine">@RealMargarine</a>
