@@ -10,9 +10,9 @@ Since 2017, when I first started open source development, I've learned a lot of 
 
 🔨 Maintaining and further developing my repositories like [AniList-Node](https://github.com/Butterstroke/AniList-Node)
 
-💻 Currently completing my final semester of university. Actively seeking full-time employment for a software developer position starting in January 2023. All offers, reach out via my email: <a href="mailto:katsurinstudios@protonmail.ch">katsurinstudios@protonmail.ch</a>.
+💻 Currently completing my final semester of university. Actively seeking full-time employment for a software developer position starting in January 2023. All offers, reach out via my email: <a href="mailto:fkatsura@katsurin.com">fkatsura@katsurin.com</a>.
 
 ### Contact Me
 🐦 Twitter: <a href="https://twitter.com/RealMargarine">@RealMargarine</a>
 
-📫 Email: <a href="mailto:katsurinstudios@protonmail.ch">katsurinstudios@protonmail.ch</a>
+📫 Email: <a href="mailto:fkatsura@katsurin.com">fkatsura@katsurin.com</a>
