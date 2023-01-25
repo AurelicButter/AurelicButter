@@ -6,7 +6,7 @@ Since 2017, when I first started open source development, I've learned a lot of 
 
 ### Current Status
 
-✍️ Developing a new Angular application called Myneworm.
+✍️ Developing my latest project, a website called [Myneworm](https://github.com/Butterstroke/Myneworm) and its API
 
 🔨 Maintaining and further developing my repositories like [AniList-Node](https://github.com/Butterstroke/AniList-Node)
 
