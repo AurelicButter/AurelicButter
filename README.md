@@ -6,11 +6,11 @@ Since 2017, I have fueled this passion through open source development; creating
 
 ### Current Status
 
-✍️ Developing my latest project, a website called [Myneworm](https://github.com/Butterstroke/Myneworm) and its API
+✍️ Developing my latest project, a website called [Myneworm](https://github.com/Butterstroke/Myneworm) and its API. It's availible in public beta here: https://myneworm.katsurin.com if you want to check it out!
 
 🔨 Maintaining and further developing my repositories like [AniList-Node](https://github.com/Butterstroke/AniList-Node)
 
-💻 Actively seeking full-time employment for a software developer position starting immediately. All offers, reach out via my email: <a href="mailto:fkatsura@katsurin.com">fkatsura@katsurin.com</a>!
+💻 Actively seeking full-time employment for a software developer position starting immediately. For contact, reach out via my email: <a href="mailto:fkatsura@katsurin.com">fkatsura@katsurin.com</a>!
 
 ### Contact Me
 📫 Email: <a href="mailto:fkatsura@katsurin.com">fkatsura@katsurin.com</a>
