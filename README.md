@@ -6,7 +6,7 @@ Since 2017, I have fueled this passion through open source development; creating
 
 ### Current Status
 
-✍️ Developing my latest project, a website called [Myneworm](https://github.com/Butterstroke/Myneworm) and its API. It's availible in public beta here: https://myneworm.katsurin.com if you want to check it out!
+✍️ Developing my latest project, a website called [Myneworm](https://github.com/Butterstroke/Myneworm) and its API. It's available right now for anyone to sign up and use at https://myneworm.katsurin.com!
 
 🔨 Maintaining and further developing my repositories like [AniList-Node](https://github.com/Butterstroke/AniList-Node)
 
