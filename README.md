@@ -11,4 +11,4 @@ Currently, I am improving upon [Myneworm](https://myneworm.katsurin.com), the pr
 ### Contact Me
 📫 Email: <a href="mailto:fkatsura@katsurin.com">fkatsura@katsurin.com</a>
 
-🐦 Twitter: <a href="https://twitter.com/RealMargarine">@RealMargarine</a>
+🐦 Twitter: <a href="https://twitter.com/AurelicButter">@AurelicButter</a>
