@@ -6,8 +6,6 @@ Since 2017, I have fueled a passion for software development through my open sou
 
 Currently, I am improving upon [Myneworm](https://myneworm.katsurin.com), the premier website dedicated to tracking and staying updated on English-translated light novels and manga releases. I work over the entire stack from Angular front-end ([GitHub Repo](https://github.com/Butterstroke/Myneworm)) to TypeScript/Express.js API and beyond. I'm also maintaining other repositories of mine like [AniList-Node](https://github.com/Butterstroke/AniList-Node).
 
-> Looking for a software developer? I am actively seeking employment! Contact me at <a href="mailto:fkatsura@katsurin.com">fkatsura@katsurin.com</a> with details!
-
 ### Contact Me
 📫 Email: <a href="mailto:fkatsura@katsurin.com">fkatsura@katsurin.com</a>
 
